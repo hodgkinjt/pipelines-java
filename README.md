@@ -1,3 +1,4 @@
+[![Build Status](https://hodgkinjt.visualstudio.com/Temple/_apis/build/status/hodgkinjt.pipelines-java?branchName=master)](https://hodgkinjt.visualstudio.com/Temple/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
